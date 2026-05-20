@@ -31,12 +31,12 @@ sudo easy_install pip
 
 # Create a directory for Kaggle configuration
 mkdir ~/.kaggle      # macOS
-mkdir %USERPROFILE%\.kaggle   # Windows
+
 
 # Move kaggle.json to the Kaggle directory
 # Use the following commands to copy the kaggle.json file:
 mv ~/Downloads/kaggle.json ~/.kaggle/   # macOS
-copy %USERPROFILE%\Downloads\kaggle.json %USERPROFILE%\.kaggle\   # Windows
+
 
 # Set the permissions for kaggle.json
 chmod 600 ~/.kaggle/kaggle.json  # macOS
