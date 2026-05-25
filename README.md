@@ -1,4 +1,4 @@
-# Walmart Data Analysis: End-to-End MySQL + Python Project
+# Walmart Data Analysis: MySQL + Python Project
 
 ## Project Overview
 
