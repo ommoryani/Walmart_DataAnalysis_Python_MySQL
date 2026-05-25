@@ -123,9 +123,17 @@ Possible extensions to this project:
 ---
 
 ## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the scripts for educational and career portfolio purposes.
 
-This project is licensed under the MIT License. 
+---
 
+## 👨‍💻 Authors
+
+Om Moryani
+
+B.Tech -CSE (Internet of Things , Cybersecurity including Blockchain Technology)
+
+REVA University, Bengaluru
 ---
 
 ## Acknowledgments
