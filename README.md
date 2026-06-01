@@ -3,6 +3,9 @@
 ## Project Overview
 
 ![Project Pipeline](Walmart_DataAnlysis.jpg)
+![](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/MySQL-15+-blue?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/Pandas-Data_Cleaning-orange?style=for-the-badge&logo=pandas)
 
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
